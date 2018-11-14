@@ -1,0 +1,60 @@
+body{
+    color: white;
+    background-image: url('../image/background.jpg');
+}
+h1 {
+font-size: 48px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+font-weight: 900;
+margin-top: 20px;
+margin-left:50px;
+}
+
+.row
+{
+    float: left;
+    width: 60%;
+    
+}
+.row1{
+float: left;
+width:60%;
+}
+.column{
+    float:left;
+    width: 40%;
+    padding: 1%;
+    color: white;
+    font-size: 28px;
+    
+}
+.row2{
+    float: left;
+    widows: 1024pxpx;
+}
+.column2{
+float: left;
+}
+button{
+background-color: black;
+}
+.row3{
+    margin-top: 50px;
+    float: left;
+    width:600px;
+    font-size: 28px;
+    font-weight: 900;
+}
+.row4{
+    font-size:28px;
+    font-weight:900;
+    float: left;
+    width:600px;
+}
+
+p{
+    font-size: 20px,
+    font-color white;
+    font-weight: 900;
+}
